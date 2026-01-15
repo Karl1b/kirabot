@@ -3,6 +3,8 @@ Telegram chatbot that is a virtual "girlfriend" (not spicy!) sorry - not sorry!
 
 Note that this is in GERMAN :-) - you need to translate the prompts for this to be english.
 
+![Karen](./karen.png)
+
 ## Setup
 
 $cp examaple.env .env
