@@ -1,0 +1,5 @@
+.env
+chats/*
+kira
+last_update_id.txt
+allowed_users.txt
